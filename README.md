@@ -1,16 +1,24 @@
-### Hi there 👋
+My friend, support me to help focus on content creation without distracting on food 🍞 and basic human needs 🏠. Let's create better content together 🤜🤛. Thank you! 😻
 
-<!--
-**greykocha/greykocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/328.png"> Monero / <b>XMR:</b> 49RSCrSC3WXfaETGoZuqoydYaTyJU7LDmDtzcYL6JfVR3qHVoixcmEgc3st3V9ewCyep7eKhXgvK6P9vqavzmyjzSy7Hqa9</p>
+<p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"> Bitcoin / <b>BTC</b>: bc1qm4lkjt760y4wjqzvmj2607xxhqh7zsmdgemlhd</p>
+<p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"> Ethereum / <b>ETH:</b> 0xFC083e3c4f9eaFDBE4376DD5493C3C1aAE33f1F9</p>
+<p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"> Tether USD / <b>USDT (ETH):</b> 0xFC083e3c4f9eaFDBE4376DD5493C3C1aAE33f1F9</p>
+<p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"> Tether USD / <b>USDT (SOL):</b> 4c4c5nixZ7xtRCTP8CWQ54aTTJaJZoCv47GP3eAg5NxK</p>
+<p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"> Tether USD / <b>USDT (POLYGON):</b> 0xFC083e3c4f9eaFDBE4376DD5493C3C1aAE33f1F9</p>
+<p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"> Tether USD / <b>USDT (BSC):</b> 0xFC083e3c4f9eaFDBE4376DD5493C3C1aAE33f1F9</p>
+<p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"> Binance / <b>BNB (BSC):</b> 0xFC083e3c4f9eaFDBE4376DD5493C3C1aAE33f1F9</p>
+<p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"> Binance / <b>BNB (BNB):</b> bnb19uxhcm5yz4avgkka3zlw8u6slcferdrgzcc4tm</p>
+<p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"> USD coin / <b>USDC (ETH):</b> 0xFC083e3c4f9eaFDBE4376DD5493C3C1aAE33f1F9</p>
+<p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"> USD coin / <b>USDC (SOL):</b> 4c4c5nixZ7xtRCTP8CWQ54aTTJaJZoCv47GP3eAg5NxK</p>
+<p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"> USD coin / <b>USDC (POLYGON):</b> 0xFC083e3c4f9eaFDBE4376DD5493C3C1aAE33f1F9</p>
+<p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"> USD coin / <b>USDC (BNB):</b> 0xFC083e3c4f9eaFDBE4376DD5493C3C1aAE33f1F9</p>
+<p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/52.png"> Ripple / <b>XRP:</b> rwhbvXgm37QLyuGaA7qARAYujxjYDSDdTD</p>
+<p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png"> Solana / <b>SOL:</b> 4c4c5nixZ7xtRCTP8CWQ54aTTJaJZoCv47GP3eAg5NxK</p>
+<p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png"> Cardano / <b>ADA</b>: addr1qy5qr8zcwujknksl9usj32d8m4sw3qyyx8t5jcse8p59rmfgqxw9sae9d8dp7tep9z560htqazqggvwhf93pjwrg28ks9jnu29</p>
+<p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/74.png"> Dogecoin / <b>DOGE:</b> DKWCY4bU6zkrZhSqoqzxDs5dx6QpyVsAHS</p>
+<p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png"> Tron / <b>TRX:</b> TLvcqEsW48Gzp1oVopAPBpbYhscD1HYA3Z</p>
+<p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"> Polygon / <b>MATIC:</b> 0xFC083e3c4f9eaFDBE4376DD5493C3C1aAE33f1F9</p>
+<p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png"> Polkadot / <b>DOT:</b> 13TsF7Q6bDvotQfmPj6Q3uQ47eMTpLjEYpVBhv4d7ayfGKu3</p>
+<p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/2.png"> Litecoin / <b>LTC:</b> LdUjjaDZf3AH2f2oGyCm33at74ab3VGyTP</p>
+<p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1437.png"> Zcash / <b>ZEC:</b> t1c9Lwp6fmarYoUEFFHDBDy2jgpYqY6uZjr</p>
