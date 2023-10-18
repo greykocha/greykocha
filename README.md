@@ -1,6 +1,8 @@
 My friend, support me to help focus on content creation without distracting on food 🍞 and basic human needs 🏠. Let's create better content together 🤜🤛. Thank you! 😻
 
 <p><img width="25" valign="middle" src="https://1000logos.net/wp-content/uploads/2017/05/emblem-Paypal.jpg"> Paypal via email: greykocha@gmail.com </p>
+<p><img width="25" valign="middle" src="https://c5.patreon.com/external/favicon/rebrand/favicon.ico?v=af5597c2ef"> Patreon https://www.patreon.com/Greykocha</p>
+<h2>Crypto (the best way):</h2>
 <p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/328.png"> Monero / <b>XMR:</b> 49RSCrSC3WXfaETGoZuqoydYaTyJU7LDmDtzcYL6JfVR3qHVoixcmEgc3st3V9ewCyep7eKhXgvK6P9vqavzmyjzSy7Hqa9</p>
 <p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"> Bitcoin / <b>BTC</b>: bc1qm4lkjt760y4wjqzvmj2607xxhqh7zsmdgemlhd</p>
 <p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"> Ethereum / <b>ETH:</b> 0xFC083e3c4f9eaFDBE4376DD5493C3C1aAE33f1F9</p>
