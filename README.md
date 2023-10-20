@@ -25,3 +25,4 @@ My friend, support me to help focus on content creation without distracting on f
 <p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png"> Polkadot / <b>DOT:</b> 13TsF7Q6bDvotQfmPj6Q3uQ47eMTpLjEYpVBhv4d7ayfGKu3</p>
 <p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/2.png"> Litecoin / <b>LTC:</b> LdUjjaDZf3AH2f2oGyCm33at74ab3VGyTP</p>
 <p><img width="25" valign="middle" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1437.png"> Zcash / <b>ZEC:</b> t1c9Lwp6fmarYoUEFFHDBDy2jgpYqY6uZjr</p>
+<p>💬 Other crypto will be added at your request, just ask me! 👌</p>
